@@ -49,6 +49,8 @@ public class PruebaAsesoria {
 		obj1.analizarPassMayusculas( obj1.passMayusculas() );
         
         // comentario
+
+		//segundo comentario
 	}
 
 }
