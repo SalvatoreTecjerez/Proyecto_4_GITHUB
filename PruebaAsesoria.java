@@ -47,6 +47,8 @@ public class PruebaAsesoria {
 		System.out.println( obj1.compararPassword(pass2) ? "Iguales" : "Diferentes");
 
 		obj1.analizarPassMayusculas( obj1.passMayusculas() );
+        
+        // comentario
 	}
 
 }
